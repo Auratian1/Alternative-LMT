@@ -1,2 +1,25 @@
-Dowload these file into the the users\ExampleName\Zomboid\mods file to be able to use them in game
-Enjoy
+Description:
+---
+  Hi!
+A (better?) Let Me Think
+  Let Me Think (LMT) was has problems with gasoline containers like gas bottles and Fuel API's large gas canisters interacting with fuel pumps and cars and lucky us there is an alternative. This version fixes all that and it also has much less code doing ~all the same things! 
+
+  None of this code is mine, so don't expect to receive updates (doesn't mean I won't try correct bugs)! Produced by Tyrir, shared by @Neznajka, uploaded by @Auratian.
+  Original code found on original LMT mod's discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2033451936
+  
+  Enjoy!
+
+Know Issuess:
+  When paused
+    -vehicle buttons don't work
+    -vehicle radial won't open
+    -vehicle mechanics window not interactable
+  When unpaused
+     -none
+
+
+
+Reposts should be done with original author's permission (duh!)
+
+[b]Confirmed to work on build 41.78[/b]
+---
