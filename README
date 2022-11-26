@@ -2,24 +2,37 @@ Description:
 ---
   Hi!
 A (better?) Let Me Think
-  Let Me Think (LMT) was has problems with gasoline containers like gas bottles and Fuel API's large gas canisters interacting with fuel pumps and cars and lucky us there is an alternative. This version fixes all that and it also has much less code doing ~all the same things! 
+Let Me Think (LMT) has problems with gasoline containers like gas bottles and Fuel API's large gas canisters interacting with fuel pumps and cars and has compatibility problems with other popular mods like Better Towing. Lucky us, there is an effective alternative. This version allows these types of mods to function while doing ~all the same things as the original!
 
-  None of this code is mine, so don't expect to receive updates (doesn't mean I won't try correct bugs)! Produced by Tyrir and @Neznajka on steam, uploaded by @Auratian.
-  Original code found on original LMT mod's discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2033451936
-  
-  Enjoy!
+This mod allows opening and interacting with most context menus while the game is paused like you can normally, because honestly who thought so you shouldn't be able to? The description of the original mod applies the same here so look at their summary if this isn't enough to go on.
 
-Know Issuess:
-  When paused
-    -vehicle buttons don't work (like vanilla)
-    -vehicle radial won't open (like vanilla)
-    -vehicle mechanics window not interactable (like vanilla)
-  When unpaused
-     -none
+Almost none of this code is mine, so don't expect to receive updates (doesn't mean I won't try correct bugs)! Produced by Tyrir and @Neznajka, uploaded by @Auratian.
+
+Original code found on original LMT mod's discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2033451936
 
 
+Enjoy!
 
-Reposts should be done with original author's permission (duh!)
+Know Issues
+----When paused----
+-vehicle buttons don't work(like vanilla)
+-vehicle radial won't open (like vanilla)
+-vehicle mechanics window not intractable (like vanilla)
+----When unpaused----
+-none
 
-Confirmed to work on build 41.78
+Compatibility
+Works with:
+-Better towing (waiting for confirmation with mod author)
+-Fuel API
+
+Incompatible:
+-none
+
+Confirmed to work on build 41.78 including with my personal mod list
+Can be added and removed mid-game
+
+This mod works standalone, using the original is counter intuitive
+
+Re-posts should be done with original author's permission (duh!)
 ---
